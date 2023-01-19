@@ -107,38 +107,3 @@ The conclusion from this process is that RandomForest  model is the best overall
 
 [https://scikit-learn.org/stable/modules/learning_curve.html#learning-curve ](https://scikit-learn.org/stable/modules/learning_curve.html#learning-curve)[https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html#sphx-glr -auto-examples-model-selection-plot-learning-curve-py](https://scikit-learn.org/stable/auto_examples/model_selection/plot_learning_curve.html#sphx-glr-auto-examples-model-selection-plot-learning-curve-py)
 
-**Contribution**
-
-Jason Huang:
-
-- Milestone 1 :
-  - 1.1/1.2 Cleaning messy outcome labels
-  - 1.4 Data cleaning and imputation
-  - 1.5 Histogram portion for finding outliers
-- Milestone 2 :
-  - 1.2 Mapping categorical features to numerical
-  - 1.5 Plots for hyperparameter affecting overfit and underfit of default models
-  - 1.6 Plots for performance analysis and comparative study
-
-Alex Blackwell:
-
-- Milestone 1:
-  - 1.6 Joining the cases and location datasets
-  - 1.7 Feature selection
-- Milestone 2:
-  - 1.1 Derived month feature.
-  - 1.3 Built a function to handle k-fold stratified cross validation with oversampling.
-  - 1.4 Built a function to train and test models and return the mean macro F1 and deceased scores as well as the mean accuracy.
-  - 1.5 Plot overfitting random forest classifier.
-  - 1.7 Integrated given function to generate prediction CSV.
-
-Gursmeep Syan:
-
-- Milestone 1:
-  - 1.3 Generating data on plotly maps
-  - Report
-- Milestone 2:
-  - 1.6 Feature importances for seeing robustness
-  - 1.5 Overfitting analysis for ExtraTrees and AdaBoost
-  - Report
-10
